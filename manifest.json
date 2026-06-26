@@ -7,5 +7,5 @@
       "name": "prueba74848-wq"
     }
   ],
-  "main": "https://raw.githubusercontent.com/prueba74848-wq/kettu-auto-react/main/index.js"
+  "main": "./index.js"
 }   
